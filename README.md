@@ -2,7 +2,11 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=Abdul+Wadud+Priyo+&textBg=false&fontSize=70&fontAlign=50&fontAlignY=34&rotate=0&strokeWidth=0&desc=CSE+Student+%7C+Software+Engineer+%7C+AI%2C+ML%5CDL%2C+NLP+and+Data+Science+Enthusiast&descSize=21&descAlign=50&descAlignY=50">
 </div>
 
-# Hi 👋, I'm Abdul Wadud Priyo
+<div align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Abdul+Wadud+Priyo!;CSE+Student++;And;Creating+my+thought+with+Web%2BApp%2BAI-ML" alt="Typing SVG" /></a>
+</div>
+
+
 
 ###  
 
