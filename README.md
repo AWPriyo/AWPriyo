@@ -28,8 +28,11 @@
 ---
 
 ## 👨‍💻 About Me:
-<p><h4>Hello, Assalamu Alaikum. I am Abdul Wadud Priyo. I am currently studying in Computer Science and Engineering Department at East West University. I have a strong interest in Software Development, Web Development, Android App Development, Algorithms, Problem Solving, Artificial Intelligence, Machine Learning, Deep Learning and LLM NLP Based Model.<br><br>
-I enjoy turning ideas into practical projects, learning new technologies through hands-on development, and continuously improving my programming and software engineering skills.</h4></p>
+<p><h4>Hello, Assalamu Alaikum! I'm Abdul Wadud Priyo, a Computer Science and Engineering student at East West University.
+
+I'm passionate about software development, web development, Android app development, algorithms, and problem-solving. I also have a strong interest in Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing (NLP), including Large Language Models (LLMs).
+
+I enjoy turning ideas into practical projects, exploring new technologies through hands-on development, and continuously improving my programming and software engineering skills.</h4></p>
 
 
 ```yaml
